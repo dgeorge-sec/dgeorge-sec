@@ -1,16 +1,29 @@
-## Cybersecurity | Offensive Security
+# Hi, I'm Deepak 👋
 
-<!--
-**dgeorge-sec/dgeorge-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity professional focused on penetration testing, web application
+security and vulnerability assessment.
 
-Here are some ideas to get you started:
+## 🎓 Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Practical Network Penetration Tester (PNPT)** — TCM Security  
+  `Credential ID: YOUR_PNPT_ID` · [Verify Credential](YOUR_PNPT_VERIFICATION_LINK)
+
+- **CompTIA Security+** — CompTIA  
+  `Credential ID: YOUR_SECURITY+_ID` · [Verify Credential](YOUR_SECURITY+_VERIFICATION_LINK)
+
+- **Certified Ethical Hacker (CEH)** — EC-Council  
+  `Credential ID: ECC9461235708`  (https://aspen.eccouncil.org/Verify)
+
+## 🔐 Cybersecurity Focus
+
+- Web Application Security
+- API Security
+- Penetration Testing
+- Vulnerability Assessment
+- Active Directory
+
+
+## 📂 Projects
+
+
+
