@@ -14,6 +14,9 @@ security and vulnerability assessment.
 - **Certified Ethical Hacker (CEH)** — EC-Council  
   `Credential ID: ECC9461235708`  (https://aspen.eccouncil.org/Verify)
 
+- **Microsoft Certified: Azure Fundamentals** — Microsoft 
+  `Credential ID: 98509D-G194F6`  (https://www.credly.com/badges/bc431ff5-06b1-468e-95dd-e99f2dab9745/linked_in_profile)
+
 ## 🔐 Cybersecurity Focus
 
 - Web Application Security
