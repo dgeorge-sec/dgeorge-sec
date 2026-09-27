@@ -10,8 +10,8 @@ security and vulnerability assessment.
   [Verify Credential](YOUR_PNPT_VERIFICATION_LINK)
 
 - **CompTIA Security+** — CompTIA  
-  `Credential ID: YOUR_SECURITY+_ID` 
-  [Verify Credential](YOUR_SECURITY+_VERIFICATION_LINK)
+  `Credential ID: COMP001023126440` 
+   (https://cp.certmetrics.com/comptia/en/public/verify/credential/7dcaed4dafc448f2b9a14fae0fae0c8f)
 
 - **Certified Ethical Hacker (CEH)** — EC-Council  
   `Credential ID: ECC9461235708`  
