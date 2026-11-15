@@ -6,8 +6,8 @@ security and vulnerability assessment.
 ## 🎓 Certifications
 
 - **Practical Network Penetration Tester (PNPT)** — TCM Security  
-  `Credential ID: YOUR_PNPT_ID`
-  [Verify Credential](YOUR_PNPT_VERIFICATION_LINK)
+  `Credential ID: 196997738`
+  [https://certified.tcm-sec.com/03c1a81e-3782-4bb7-a0cd-49c243dbd846#acc.XPxiZmjv)
 
 - **CompTIA Security+** — CompTIA  
   `Credential ID: COMP001023126440` 
